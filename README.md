@@ -1,2 +1,2 @@
-# python-samples
+# Python Samples
 Algorithms implemented in Python.
